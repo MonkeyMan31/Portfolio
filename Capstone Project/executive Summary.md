@@ -1,4 +1,5 @@
 **Executive Summary**
+
 This report outlines a consultancy project for the U.S. Department of Transportation (DOT) focused on analysing arrival flight delays at public airports across the United States. The analysis encompasses data from American domestic flights spanning June 2003 to December 2023. The DOT seeks insights on the following issues:
 
 Avoidable Delays: Caused by on-ground and aviation operations, or air traffic control.
@@ -12,6 +13,7 @@ The approach involves analysing general categories of delay, distinguishing betw
 Key airport characteristics evaluated include elevation, area, and number of runways. Conclusive results were derived from the type of airports (international, regional, and domestic), age of facilities, and total number of incoming flights, using techniques such as A/B testing, scatterplots, and cohorts.
 
 **Findings**
+
 - The average number of yearly flights decreased slightly from 2003 to 2023, but the median delay duration per delayed flight and per total arrivals increased by 31% and 37%, respectively.
 - 19.2% of total arrivals were delayed, with avoidable delays accounting for 96% of these. Late aircraft had the highest share at 35.8%.
 - June, July, and December had the highest delay rates due to increased holiday travel and seasonal weather conditions.
