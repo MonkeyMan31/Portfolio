@@ -1,3 +1,8 @@
+The live dashboard is accessible via this link: https://lookerstudio.google.com/reporting/2e893ba4-548c-4a4b-825f-f49b890f1a87
+The live written report is accessible via this link: https://docs.google.com/document/d/1GPiE8LsJHQp_EYaG-S0-AWP6kr2zVAHnbSc7ug8Rnhs/edit?usp=sharing
+
+
+
 **Executive Summary**
 
 This report outlines a consultancy project for the U.S. Department of Transportation (DOT) focused on analysing arrival flight delays at public airports across the United States. The analysis encompasses data from American domestic flights spanning June 2003 to December 2023. The DOT seeks insights on the following issues:
