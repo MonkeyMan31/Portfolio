@@ -1,10 +1,17 @@
 # Executive Summary
 
-This report outlines a consultancy project for the U.S. Department of Transportation (DOT) focused on analysing arrival flight delays at public airports across the United States and its related territories. The analysis encompasses data from U.S. domestic flights spanning from June 2003 to December 2023. The DOT seeks insights on the following issues:
+This report outlines a consultancy project for the U.S. Department of Transportation (DOT) focused on analysing arrival flight delays at public airports across the United States and its related territories. The analysis encompasses data from U.S. domestic flights spanning from June 2003 to December 2023. It includes monthly statistics of arrivals, delayed arrivals and cancelled flights by each airline and destination airport. The reason for delays are categorized as follows: 
+1 - Carrier; airline-controlled circumstances such as maintenance or crew issues
+2 - Late Aircraft; aircraft arriving late from the previous flight
+3 - National Airspace System (NAS); non-extreme weather, airport operations, and air traffic control
+4 - Weather; significant meteorological conditions such as blizzards, or hurricanes
+5 - Security; security breaches or boarding problems
 
-Avoidable Delays: Caused by on-ground and aviation operations, or air traffic control.
-Unavoidable Delays: Caused by harsh weather conditions or security reasons.
-Flight Cancellations: Distribution, rate, and patterns based on season and regions.
+The DOT seeks insights on the following issues:
+
+- Avoidable Delays: Caused by on-ground and aviation operations, or air traffic control.
+- Unavoidable Delays: Caused by harsh weather conditions or security reasons.
+- Flight Cancellations: Distribution, rate, and patterns based on season and regions.
 
 In addition to passenger security, the DOT is concerned with the financial and temporal impacts of delays and cancellations in the aviation industry. In 2023, one in five flights were delayed due to avoidable or unavoidable reasons. These delays can cause passengers to miss connecting flights or accommodation reservations, placing additional strain on the National Aviation System to maintain the schedule. A reduction of even 10% in flight delays could save over $2 billion dollars and 40,000 hours, significantly enhancing passenger satisfaction. This analysis aims to identify opportunities to minimise these losses.
 
