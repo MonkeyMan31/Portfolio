@@ -3,10 +3,14 @@
 This report outlines a consultancy project for the U.S. Department of Transportation (DOT) focused on analysing arrival flight delays at public airports across the United States and its related territories. The analysis encompasses data from U.S. domestic flights spanning from June 2003 to December 2023. It includes monthly statistics of arrivals, delayed arrivals and cancelled flights by each airline and destination airport. The reason for delays are categorized as follows: 
 
 1 - Carrier; airline-controlled circumstances such as maintenance or crew issues
-2 - Late Aircraft; aircraft arriving late from the previous flight
-3 - National Airspace System (NAS); non-extreme weather, airport operations, and air traffic control
-4 - Weather; significant meteorological conditions such as blizzards, or hurricanes
-5 - Security; security breaches or boarding problems
+
+2 - Late Aircraft; aircraft arriving late from the previous flight 
+
+3 - National Airspace System (NAS); non-extreme weather, airport operations, and air traffic control 
+
+4 - Weather; significant meteorological conditions such as blizzards, or hurricanes 
+
+5 - Security; security breaches or boarding problems 
 
 The DOT seeks insights on the following issues:
 
@@ -19,8 +23,7 @@ In addition to passenger security, the DOT is concerned with the financial and t
 The approach involves analysing general categories of delay, distinguishing between avoidable and unavoidable delays, and considering the roles of airlines and airports. This includes a historical review and examination of delay rates for arrival flights, delay duration per delayed arrival, and the causes of delays. Exploratory analysis is used to identify the most influential elements in the avoidable delay category, which includes airlines, late aircrafts and National Airspace System (NAS) which is run by federal government. Seasonal trends for weather and security-related delays are also examined to anticipate future occurrences in unavoidable category.
 
 The core of analysis evolves around the rate of delay by each of the 5 categories in arrivals and the delay duration per delayed arrivals that originates from them. Furthermore the share of each category from cumulative delay count and delay duration is measured for a fair scaled view of the matter and the influence of each element in total occurances. 
-
-Key airport characteristics evaluated include elevation, area, and number of runways. Conclusive results were derived from the type of airports (international, regional, and domestic), age of facilities, and total number of incoming flights, using techniques such as A/B testing, scatterplots, and cohorts.
+For good measure, an interactive dashboard with possibility of filtering the data based on date, region, airline and airport has been developed for deeper explorations into the matter.
 
 **Findings**
 
@@ -30,6 +33,3 @@ Key airport characteristics evaluated include elevation, area, and number of run
 - Southwest Airlines had the highest number of total delays by airline (17.8%) and by late aircraft (25.8%), but their delay rate was just below the average.
 - California experienced the highest number of NAS delays (10.9%), attributable to its high number of airports (34).
 - Airports established after 2000 showed better results in avoidable delay rates (15.59% compared to 18.46%) but higher average delay duration per delayed flight.
-
-A digital dashboard with filter options has been created to facilitate further exploration of the data which can be accessed via this link: 
- https://lookerstudio.google.com/reporting/2e893ba4-548c-4a4b-825f-f49b890f1a87
