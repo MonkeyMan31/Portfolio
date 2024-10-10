@@ -1,10 +1,15 @@
 # Executive Summary
 
 This report outlines a consultancy project for the U.S. Department of Transportation (DOT) focused on analysing arrival flight delays at public airports across the United States and its related territories. The analysis encompasses data from U.S. domestic flights spanning from June 2003 to December 2023. It includes monthly statistics of arrivals, delayed arrivals and cancelled flights by each airline and destination airport. The reason for delays are categorized as follows: 
+
 1 - Carrier; airline-controlled circumstances such as maintenance or crew issues
+
 2 - Late Aircraft; aircraft arriving late from the previous flight
+
 3 - National Airspace System (NAS); non-extreme weather, airport operations, and air traffic control
+
 4 - Weather; significant meteorological conditions such as blizzards, or hurricanes
+
 5 - Security; security breaches or boarding problems
 
 The DOT seeks insights on the following issues:
