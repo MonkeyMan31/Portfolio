@@ -14,8 +14,8 @@ This report outlines a consultancy project for the U.S. Department of Transporta
 
 The DOT seeks insights on the following issues:
 
-- Avoidable Delays: Caused by on-ground and aviation operations, or air traffic control.
-- Unavoidable Delays: Caused by harsh weather conditions or security reasons.
+- Avoidable Delays: Caused by on-ground and aviation operations, or air traffic control. This includes carrier, late aircraft and NAS categories. 
+- Unavoidable Delays: Caused by harsh weather conditions or security reasons. This includes security and weather categories. 
 - Flight Cancellations: Distribution, rate, and patterns based on season and regions.
 
 In addition to passenger security, the DOT is concerned with the financial and temporal impacts of delays and cancellations in the aviation industry. In 2023, one in five flights were delayed due to avoidable or unavoidable reasons. These delays can cause passengers to miss connecting flights or accommodation reservations, placing additional strain on the National Aviation System to maintain the schedule. A reduction of even 10% in flight delays could save over $2 billion dollars and 40,000 hours, significantly enhancing passenger satisfaction. This analysis aims to identify opportunities to minimise these losses.
