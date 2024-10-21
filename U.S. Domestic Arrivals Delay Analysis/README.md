@@ -27,7 +27,7 @@ For good measure, an interactive dashboard with possibility of filtering the dat
 
 **Findings**
 
-- The average number of yearly flights decreased slightly from 2003 to 2023, but the median delay duration per delayed flight and per total arrivals increased by 31% and 37%, respectively.
+- The average number of yearly delayed arrivals has decreased slightly from 2003 to 2023, but the median delay duration per delayed arrivals has increased by 31%, 
 - 19.2% of total arrivals were delayed, with avoidable delays accounting for 96% of these. Late aircraft had the highest share at 35.8%.
 - June, July, and December had the highest delay rates due to increased holiday travel and seasonal weather conditions.
 - Southwest Airlines had the highest number of total delays by airline (17.8%) and by late aircraft (25.8%), but their delay rate was just below the average.
