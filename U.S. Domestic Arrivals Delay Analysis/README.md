@@ -27,9 +27,9 @@ For good measure, an interactive dashboard with possibility of filtering the dat
 
 **Findings**
 
-- The average number of yearly delayed arrivals has decreased slightly from 2003 to 2023, but the median delay duration per delayed arrivals has increased by 31%, 
-- 19.2% of total arrivals were delayed, with avoidable delays accounting for 96% of these. Late aircraft had the highest share at 35.8%.
-- June, July, and December had the highest delay rates due to increased holiday travel and seasonal weather conditions.
-- Southwest Airlines had the highest number of total delays by airline (17.8%) and by late aircraft (25.8%), but their delay rate was just below the average.
-- California experienced the highest number of NAS delays (10.9%), attributable to its high number of airports (34).
-- Airports established after 2000 showed better results in avoidable delay rates (15.59% compared to 18.46%) but higher average delay duration per delayed flight.
+- The average number of yearly delayed arrivals has decreased slightly from 2003 to 2023, but the median delay duration per delayed arrivals has increased by 31%, from 45 minutes in 2003 to 57 minutes in 2023. 
+- 19.2% of total arrivals were delayed, with avoidable delays accounting for 96% of them. Late aircraft category has the highest share at 35.8% of all delays. 
+- June, July, and December witness the highest delay rates, 3.5% more than yearly average, due to increased holiday travel and seasonal weather conditions.
+- Southwest Airlines hold the the highest number of total delays in carrier (17.8%) and late aircraft (25.8%) categories, but their delay rate is just below the average of all.
+- Internatioanl airports show considerably higher NAS delay rate (4.8%) and higher NAS delay duration (8.9 Minutes), followed by domestic (4%, 7.3 M) and regionals (3.7%, 7.2M).
+- Highest average delay rates by region belongs to Northeast, with 21.7% in count and 56 minutes in duration, and the lowest to West region with 18.7% in count and 48 minutes in duration.
