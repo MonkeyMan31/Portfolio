@@ -1,6 +1,6 @@
 # Executive Summary
 
-This report outlines a consultancy project for the U.S. Department of Transportation (DOT) focused on analysing arrival flight delays at public airports across the United States and its related territories. The analysis encompasses data from U.S. domestic flights spanning from June 2003 to December 2023. It includes monthly statistics of arrivals, delayed arrivals and cancelled flights by each airline and destination airport. The reason for delays are categorized as follows: 
+This report outlines a consultancy project for the U.S. Department of Transportation (DOT) focused on analysing arrival flight delays at public airports across the United States and its related territories. The analysis encompasses data from U.S. domestic flights spanning from June 2003 to December 2023. It includes monthly statistics of arrivals, delayed arrivals and cancelled flights by each airline and destination airport. The reason for delays are categorised as follows: 
 
 1 - Carrier | Airline-controlled circumstances such as maintenance or crew issues
 
