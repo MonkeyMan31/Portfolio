@@ -1,7 +1,5 @@
 # Ali Naghibi - Data Analyst Portfolio
 
-**About**
-_____________________________________________________
 
 Welcome to Portfolio
 
